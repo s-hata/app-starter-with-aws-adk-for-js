@@ -1,0 +1,28 @@
+{
+  "name": "app-starter-with-aws-adk-for-js",
+  "description": "app starter project with AWS SDK for JavaScript.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Shinichi Hatano",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.171.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^4.0.0",
+    "gulp-istanbul": "^1.1.2",
+    "gulp-jasmine": "^2.4.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "isparta": "^4.0.0",
+    "jasmine-reporters": "^2.2.1"
+  }
+}
