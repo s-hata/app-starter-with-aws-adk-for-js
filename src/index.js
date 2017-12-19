@@ -9,7 +9,6 @@ export class A{
   }
 
   hello() {
-    let test = 'aaa';
     return 'hello';
   }
 
